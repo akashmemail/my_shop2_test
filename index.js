@@ -16,7 +16,7 @@ async function loded() {
         <h2>${item.title}</h2>
         <h2>price:${item.price}</h2>
         <h3>rading :${item.rating}</h3>
-        
+        <a href="product.html?id=${item.id}"> ditels</a>
       </div>
     </div>
       
